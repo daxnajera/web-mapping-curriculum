@@ -1,3 +1,5 @@
+Este es un Fork del repositorio Webmapping de Mapbox.
+Mi nombre es Luis Nájera, soy de Bolivia y quiero revolucionar el webmapping!
 # Web-Mapping-Curriculum
 
 Instructor: Dan Swick, dan@mapbox.com
